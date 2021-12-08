@@ -13,7 +13,7 @@
 %use this exact command. The style and bibliographystyle has to be authoryear (Havard). The sorting is nyt: name, year, title so that the bibliography is sorted alphabetically. firstinits=true shortens the names: Albert Einstein -> A. Einstein
 \usepackage[backend=bibtex,style=authoryear,bibstyle=authoryear,sorting=nyt,firstinits=true]{biblatex}
 \setlength\parindent{0pt}%include this so that your paragraphs don't indent automatically
-\addbibresource{report.bib} %this attaches your bib-file, your bibliography (must be in the same folder)
+\addbibresource{reference.bib} %this attaches your bib-file, your bibliography (must be in the same folder)
 \usepackage[compact]{titlesec}%include title formatting package
 
 % Title Page
@@ -41,9 +41,10 @@ This is the abstract.
 \include{CloudGaming_Methods} 
 \include{CloudGaming_Result} 
 \include{CloudGaming_Discussion} 
-\include{CloudGaming_References}
+
+
+
 \end{document}
-	
 	
 \printbibliography[title=References]
 	
