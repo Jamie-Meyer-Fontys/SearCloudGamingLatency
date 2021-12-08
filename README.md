@@ -7,3 +7,4 @@ References:
 3. https://web.cs.wpi.edu/~claypool/papers/onlive-journal/draft.pdf
 4. https://web.cs.wpi.edu/~claypool/papers/precision-deadline/final.pdf
 5. https://web.cs.wpi.edu/~claypool/iqp/game-anywhere/report.pdf
+6. https://ieeexplore.ieee.org/abstract/document/7536162
