@@ -33,7 +33,11 @@ This is the abstract.
 
 \tableofcontents
 \setcounter{page}{3}
-%\listoffigures %UNCOMMENT IF YOU HAVE FIGURES
+{%
+	\let\oldnumberline\numberline%
+	\renewcommand{\numberline}{\figurename~\oldnumberline}%
+	\listoffigures%
+}
 %\listoftables %UNCOMMENT IF YOU HAVE TABLES
 \pagebreak
 \pagenumbering{arabic}	
