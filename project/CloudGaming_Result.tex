@@ -68,3 +68,94 @@ Just like the question about how interested people were in cloud gaming, for thi
 	Not likely\\
 	
 This question was considered redundant by some interviewees. This could be true because the question about interest in cloud gaming was quite similar, only our thinking on this question was different. We saw this question as literally "Are you ever going to try cloud gaming?", but was changed to "How likely is it that you will try cloud gaming?", and most saw this as an unnecessary question because they had previously indicated whether they were interested in cloud gaming. In which the most frequently chosen option was "Slightly", as with the question about interest.
+\\
+\subsection{Research methods from articles}
+
+We have come across a number of research articles related to cloud gaming, latency, and latency occurring in cloud gaming. Many articles used methods where they let people play in a cloud gaming environment and add an additional level of latency, to find out how people performed with the game that they were playing. 
+\\\\
+In the year 2020, \textcite{desveaux2020effects} performed a research about the effects of latency in commercial cloud gaming services. According to their Background and Related Work \parencite[Chapter 2.3, Page 17]{desveaux2020effects} increased latency generally has a negative impace on both player performance and Quality of Experience, whereby they wanted to conduct a similar experiment with it, by letting someone play Assassin's Creed Odyssey via different cloud gaming services with increased latency \parencite[Chapter 3, Page 18]{desveaux2020effects}.\\
+After the experiment, \citeauthor{desveaux2020effects} collected the data into two separate types, subjective and objective data. For the subjective data \parencite[Chapter 4.2.2, Page 36]{desveaux2020effects}, the participants were asked to rate the graphics quality, responiveness of the controls and their willingness to continue playing under a certain added latency value.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig13.png}
+	\caption{Average Rating vs Added Latency for Graphics Quality}
+	\parencite[Chapter 4.2.2, Page 36, Figure 13]{desveaux2020effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig14.png}
+	\caption{Average Rating vs Added Latency for Responsiveness}
+	\parencite[Chapter 4.2.2, Page 37, Figure 14]{desveaux2020effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig15.png}
+	\caption{Average Rating vs Added Latency for Willingness to play again}
+	\parencite[Chapter 4.2.2, Page 37, Figure 15]{desveaux2020effects}
+\end{figure}
+The objective data \parencite[Chapter 4.2.3, Page 39]{desveaux2020effects} included the number of enemy kills as well as the number of times the participants were hit by enemy attacks.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig16.png}
+	\caption{Average Number of Enemies Killed for Various Added Latencies}
+	In both services, the number of kills went downward as latency increased.\\
+	\parencite[Chapter 4.2.3, Page 40, Figure 16]{desveaux2020effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig17.png}
+	\caption{Average Number of Times Damaged for Various Different Added Latencies}
+	\parencite[Chapter 4.2.3, Page 40, Figure 17]{desveaux2020effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig18.png}
+	\caption{Average Enemies Killed by Self Rated Gaming Experience}
+	Number of kills went slightly upward depending on the gaming experience.\\
+	\parencite[Chapter 4.2.3, Page 41, Figure 18]{desveaux2020effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig19.png}
+	\caption{Average Times Damaged by Self Rated Gaming Experience}
+	\parencite[Chapter 4.2.3, Page 41, Figure 19]{desveaux2020effects}
+\end{figure}
+\newpage
+\textcite{claypool2014effects} did perform a somewhat similar experiment where people play the game Crazy Taxi and Neverball on the cloud gaming services OnLive and GamingAnywhere \parencite[Chapter 3]{claypool2014effects}. In the game Crazy Taxi the player needs to earn points by driving a cab and transport as many customers to their destinations as quick as possible. Extra points can be earned by performing stunts with the cab \parencite[Chapter 3.A]{claypool2014effects}. In Neverball the player controls a stage level with a marble in it, the player needs to move the ball to its destination as fast as possible by tilting the stage with the arrow keys \parencite[Chapter 3.A]{claypool2014effects}. This experiment was done on older cloud gaming services.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig20.png}
+	\caption{QoE for Crazy Taxi on OnLive versus Latency}
+	\parencite[Chapter 4, Figure 4]{claypool2014effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig21.png}
+	\caption{QoE for Neverball on GamingAnywhere versus Latency}
+	\parencite[Chapter 4, Figure 5]{claypool2014effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig22.png}
+	\caption{User Points for Crazy Taxi on OnLive versus Latency}
+	\parencite[Chapter 4, Figure 6]{claypool2014effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig23.png}
+	\caption{User Times for Neverball on GamingAnywhere versus Latency}
+	\parencite[Chapter 4, Figure 7]{claypool2014effects}
+\end{figure}
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig24.png}
+	\caption{User Performance versus Latency for Classes of Games}
+	\parencite[Chapter 4, Figure 8]{claypool2014effects}
+\end{figure}
+\textcite{anouna2014network} also performed an experiment with the game Neverball that was using the cloud gaming service GamingAnywhere and used Dummynet to control the latency between the client and server \parencite[Chapter 3.2, Page 6]{anouna2014network}. One level was chosen for this experiment to measure the players' performances by the time it took them to complete the level \parencite[Chapter 4.1, Page 15]{anouna2014network}.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=12cm]{../img/fig25.png}
+	\caption{A graph of the average time to complete at each latency}
+	\parencite[Chapter 4.1, Page 15, Figure 4.1]{claypool2014effects}
+\end{figure}
