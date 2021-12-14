@@ -40,3 +40,7 @@
 \contentsline {figure}{\numberline {19}{\ignorespaces A graph of the average time to complete at each latency\relax }}{19}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Code for creating the necessary plots in R\relax }}{27}{}%
