@@ -13,34 +13,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {6}{\ignorespaces Question: How likely are you going to give cloud gaming a try?\relax }}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7}{\ignorespaces Average Rating vs Added Latency for Graphics Quality\relax }}{11}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Average Rating vs Added Latency for Graphics Quality\relax }}{10}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {8}{\ignorespaces Average Rating vs Added Latency for Responsiveness\relax }}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9}{\ignorespaces Average Rating vs Added Latency for Willingness to play again\relax }}{12}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Average Rating vs Added Latency for Willingness to play again\relax }}{11}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {10}{\ignorespaces Average Number of Enemies Killed for Various Added Latencies\relax }}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11}{\ignorespaces Average Number of Times Damaged for Various Different Added Latencies\relax }}{13}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Average Number of Times Damaged for Various Different Added Latencies\relax }}{12}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {12}{\ignorespaces Average Enemies Killed by Self Rated Gaming Experience\relax }}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {13}{\ignorespaces Average Times Damaged by Self Rated Gaming Experience\relax }}{14}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Average Times Damaged by Self Rated Gaming Experience\relax }}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {14}{\ignorespaces QoE for Crazy Taxi on OnLive versus Latency\relax }}{15}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces QoE for Crazy Taxi on OnLive versus Latency\relax }}{14}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {15}{\ignorespaces QoE for Neverball on GamingAnywhere versus Latency\relax }}{16}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces QoE for Neverball on GamingAnywhere versus Latency\relax }}{15}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {16}{\ignorespaces User Points for Crazy Taxi on OnLive versus Latency\relax }}{17}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces User Points for Crazy Taxi on OnLive versus Latency\relax }}{16}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {17}{\ignorespaces User Times for Neverball on GamingAnywhere versus Latency\relax }}{18}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces User Times for Neverball on GamingAnywhere versus Latency\relax }}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {18}{\ignorespaces User Performance versus Latency for Classes of Games\relax }}{18}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces User Performance versus Latency for Classes of Games\relax }}{17}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {19}{\ignorespaces A graph of the average time to complete at each latency\relax }}{19}{}%
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {19}{\ignorespaces A graph of the average time to complete at each latency\relax }}{18}{}%
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Code for creating the necessary plots in R\relax }}{27}{}%
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Code for creating the necessary plots in R\relax }}{26}{}%
